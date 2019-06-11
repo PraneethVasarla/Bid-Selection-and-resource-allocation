@@ -1,0 +1,15 @@
+1. The code has been written in python 3.6.4, so it must be installed on the system.
+
+2. Python must be added to the system path.
+
+3. Open command prompt in the location of this folder and execute the following command:
+   pip install -r requirements.txt
+
+4. Next, in the same directory execute the following command:
+   jupyter notebook
+
+5. Now, in the opened window in the browser, open the file named as DXCFinal.ipynb
+
+6. Click on the "Cell" tab and select "Run all"
+
+7. The application would be now running.
